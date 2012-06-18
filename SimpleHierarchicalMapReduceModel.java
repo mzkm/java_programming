@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
+
 public class SimpleHierarchicalMapReduceModel {
 
 	//Stored transit nodes
