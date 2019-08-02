@@ -1,2 +1,2 @@
-# java_programming
+# Simple mapreduce program
 This repository introduces some java programs for distributed computing..maybe...
